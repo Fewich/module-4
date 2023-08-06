@@ -1,1 +1,1 @@
-print("я даун")
+print("hello")
